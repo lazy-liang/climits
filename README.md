@@ -59,3 +59,8 @@ Alloc = 7 MiB	Sys = 68 MiB
 
 - [man7/cgroups](http://man7.org/linux/man-pages/man7/cgroups.7.html)
 - [限制cgroup的内存使用](https://segmentfault.com/a/1190000008125359)
+
+### 摘自
+https://github.com/songjiayang/climits
+### 说明
+http://www.songjiayang.com/posts/shi-yong-cgroup-shi-xian-nei-cun-kong-zhi
